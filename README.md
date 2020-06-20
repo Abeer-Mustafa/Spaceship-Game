@@ -7,7 +7,7 @@ My game has multiple rocks and multiple missiles. The player will lose a life if
 
 Python, CodeSkulptor
 
-You can run the code on ': http://www.codeskulptor.org/#user47_bOadEW1ns2Orapf.py'
+You can run the code on [this link](http://www.codeskulptor.org/#user47_bOadEW1ns2Orapf.py)
 
 I have designed my game after this amazing courses: 
 * [An Introduction to Interactive Programming in Python(Part 1)](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals) 
