@@ -4,5 +4,8 @@ My game has multiple rocks and multiple missiles. The player will lose a life if
 #
 # Utilized
 Python, CodeSkulptor
+#
+# I have designed my game after this amazing course: ![An Introduction to Interactive Programming in Python](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals) 
 You can run the code on ': http://www.codeskulptor.org/#user47_bOadEW1ns2Orapf.py'
+#
 ![Spaceship Game](home.png)
